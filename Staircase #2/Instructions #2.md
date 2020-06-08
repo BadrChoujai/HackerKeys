@@ -24,15 +24,6 @@ A single integer, **n**, denoting the size of the staircase.
 
 Print a staircase of size **n** using # symbols and spaces.
 
-#### Example:
-
-`     #
-     ##
-    ###
-   ####
-  #####
- ######`
-
 **Note**: The last line must have **0** spaces in it.
 
 ### Explanation
