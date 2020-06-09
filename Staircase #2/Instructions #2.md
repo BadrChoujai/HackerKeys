@@ -14,7 +14,7 @@ Complete the staircase function in the editor below. It should print a staircase
 
 staircase has the following parameter(s):
 
---n: an integer
+n: an integer
 
 ### Sample Input
 
@@ -23,15 +23,6 @@ A single integer, **n**, denoting the size of the staircase.
 ### Sample Output
 
 Print a staircase of size **n** using # symbols and spaces.
-
-#### Example:
-
-'     #'
-'    ##'
-'   ###'
-'  ####'
-' #####'
-'######' 
 
 **Note**: The last line must have **0** spaces in it.
 
