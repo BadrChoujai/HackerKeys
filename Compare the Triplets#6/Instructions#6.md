@@ -27,6 +27,6 @@ Return an array of two integers denoting the respective comparison points earned
 
 Now, let's compare each individual score:
 
-**a[0] > b[0]**, so Alice receives **1** point.
-**a[1] = b[1]**, so nobody receives a point.
-**a[2] < b[2]**, so Bob receives **1** point.
+1. **a[0] > b[0]**, so Alice receives **1** point.
+2. **a[1] = b[1]**, so nobody receives a point.
+3. **a[2] < b[2]**, so Bob receives **1** point.
