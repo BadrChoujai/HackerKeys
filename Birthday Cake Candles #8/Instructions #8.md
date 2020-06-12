@@ -4,4 +4,4 @@ Hacker Rank Problem solving.
 
 ## DESCRIPTION
 
-**No Instructions**.
+ **Find the maximum Number in the array and Count How Many Of it Exests In The Array.**
