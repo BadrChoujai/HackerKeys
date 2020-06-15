@@ -42,9 +42,9 @@ For each _grades[i]_ , print the rounded grade on a new line.
 
 ### Explanation
 
-| ID  | original grad | final grade |
-| --- | ------------- | ----------- |
-| 1   | 73            | 75          |
-| 2   | 67            | 70          |
-| 3   | 38            | 40          |
-| 4   | 33            | 33          |
+| ID  | Original grade | Final grade |
+| --- | -------------- | ------------|
+| 1   | 73             | 75          |
+| 2   | 67             | 70          |
+| 3   | 38             | 40          |
+| 4   | 33             | 33          |
